@@ -2,8 +2,8 @@ import pyglet
 import time
 import sys
 
-mus1 = pyglet.resource.media('I_am_ghoul.mp3')
-mus2 = pyglet.resource.media('amogus.mp3')
+mus1 = pyglet.resource.media('src/I_am_ghoul.mp3')
+mus2 = pyglet.resource.media('src/amogus.mp3')
 
 
 def ghoul():
