@@ -6,3 +6,4 @@ If you don't write "Y" (you should write "Y" in only uppercase)   in start, you 
 
 You can only download folder at dist/main and get exe file.
 
+upd: Now you don't need write "Y" in uppercase.
