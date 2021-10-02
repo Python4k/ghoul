@@ -21,7 +21,7 @@ def ghoul():
 
 
 if __name__ == '__main__':
-    if input('Гуль? Y|N \n') == 'Y':
+    if input('Гуль? Y|N \n').upper() == 'Y':
         ghoul()
     else:
         time.sleep(3)
